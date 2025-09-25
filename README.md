@@ -34,9 +34,8 @@
   <section id="contact">
     <h2>Follow & Contact</h2>
     <ul class="socials">
-      <li><a href="https://instagram.com/yourband" target="_blank">Instagram</a></li>
-      <li><a href="https://youtube.com/yourband" target="_blank">YouTube</a></li>
-      <li><a href="mailto:yourband@email.com">Email Us</a></li>
+      <li><a href="[https://instagram.com/yourband](https://www.instagram.com/somethingthaticallmantra?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)" target="_blank">Instagram</a></li>
+      <li><a href="mailto:rafalrafal5252@gmail.com">Email Us</a></li>
     </ul>
   </section>
 
