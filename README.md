@@ -45,3 +45,81 @@
   </footer>
 </body>
 </html>
+/* Reset some default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #0d0d0d;
+  color: #f5f5f5;
+  line-height: 1.6;
+}
+
+header {
+  background: url('your-background.jpg') no-repeat center center/cover;
+  text-align: center;
+  padding: 100px 20px;
+  color: #f5f5f5;
+}
+
+header h1 {
+  font-size: 4rem;
+  letter-spacing: 4px;
+  margin-bottom: 10px;
+}
+
+.tagline {
+  font-size: 1.5rem;
+  font-style: italic;
+  color: #e63946;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  color: #f5f5f5;
+  background: #e63946;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+section {
+  padding: 60px 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #e63946;
+}
+
+.socials {
+  list-style: none;
+  padding: 0;
+}
+
+.socials li {
+  margin-bottom: 10px;
+}
+
+.socials a {
+  color: #f5f5f5;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer {
+  background: #111;
+  text-align: center;
+  padding: 20px;
+  font-size: 0.9rem;
+  color: #888;
+}
+
