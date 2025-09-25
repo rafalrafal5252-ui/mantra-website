@@ -20,9 +20,9 @@
 
   <section id="music">
     <h2>Music</h2>
-    <p>Check out our latest tracks:</p>
+    <p>Check out our new cover song:</p>
     <!-- Embed your music player below -->
-    <iframe style="border: 0; width: 100%; height: 120px;" src="https://open.spotify.com/embed/artist/your-band-id" allowtransparency="true" allow="encrypted-media"></iframe>
+    <iframe style="border: 0; width: 100%; height: 120px;" src="[https://open.spotify.com/embed/artist/your-band-id](https://mantra4humanity.bandcamp.com/track/mistakes-like-fractures-knocked-loose-cover)" allowtransparency="true" allow="encrypted-media"></iframe>
   </section>
 
   <section id="media">
