@@ -22,7 +22,7 @@
     <h2>Music</h2>
     <p>Check out our new cover song:</p>
     <!-- Embed your music player below -->
-    <iframe style="border: 0; width: 100%; height: 120px;" src="[https://mantra4humanity.bandcamp.com/track/mistakes-like-fractures-knocked-loose-cover]" allowtransparency="true" allow="encrypted-media"></iframe>
+ src="[https://mantra4humanity.bandcamp.com/track/mistakes-like-fractures-knocked-loose-cover]"
   </section>
 
   <section id="media">
